@@ -6,7 +6,7 @@ This project is a responsive landing page for Brains Media Solutions, created us
 ## Features
 - Clean and intuitive navigation menu
 - Engaging image slider
-- Sections for About Us, Services, Mission, and Vision
+- Sections for About Us, Services, and Vision
 - Responsive design optimized for both desktop and mobile devices
 - Footer with essential links and social media icons
 
